@@ -18,11 +18,11 @@ I am a **Master of Chemical Sciences** specialized in the intersection of **Adva
 - **Compliance:** Data Integrity (ALCOA+), GUM (Uncertainty), Regulatory Affairs (NOM-059).
 
 ---
-
 ### 📂 Industrial & Analytical Projects
-* 🛡️ **[Competitive-Equilibrium-Master](https://github.com/casuarioq/Competitive-Equilibrium-Master):** High-complexity chemical simulation (EDTA, Redox, and Resin dynamics) based on Rojas Hernández & Baeza methodologies.
-* 🔢 **[Metrology-GUM-Tool](https://github.com/casuarioq/Metrology-GUM-Tool):** Advanced uncertainty calculator using GUM frameworks for high-precision analytical method validation (ISO 17025).
-* 📊 **[Analytical-Chemometrics-Stats](https://github.com/casuarioq/Analytical-Chemometrics-Stats):** Implementation of statistical models (Dixon, Grubbs) and Chemometrics to ensure Data Integrity and optimize chemical formulations.
+* 🛡️ **[Competitive-Equilibrium-Master](https://github.com/casuarioq/Competitive-Equilibrium-Master):** Simulación de sistemas químicos complejos.
+* 🔢 **[Metrology-GUM-Tool](https://github.com/casuarioq/Metrology-GUM-Tool):** Calculadora de incertidumbre ISO 17025.
+* 📊 **[Analytical-Chemometrics-Stats](https://github.com/casuarioq/Analytical-Chemometrics-Stats):** Automatización estadística y ALCOA+.
+
 ---
 
 ### 📈 Featured Visualizations
