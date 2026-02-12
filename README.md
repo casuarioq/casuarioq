@@ -20,9 +20,15 @@ I am a **Master of Chemical Sciences** specialized in the intersection of **Adva
 ---
 
 ### 📂 Industrial & Analytical Projects
-* 📈 **[Lab-Data-Automation](link):** Automation of analytical reports and quality control. Focused on eliminating human error and ensuring ALCOA+ compliance in pharmaceutical labs.
-* 🔢 **[Metrology-GUM-Tool](link):** Advanced uncertainty calculator using Monte Carlo Simulations (GUM) for high-precision analytical method validation (ISO 17025).
-* 🧪 **[Chemometrics-Process-Predictor](link):** Implementation of PCA and PLS models to identify "Out of Trend" (OOT) results and optimize chemical formulations.
+* 🛡️ **[Competitive-Equilibrium-Master](https://github.com/casuarioq/Competitive-Equilibrium-Master):** High-complexity chemical simulation (EDTA, Redox, and Resin dynamics) based on Rojas Hernández & Baeza methodologies.
+* 🔢 **[Metrology-GUM-Tool](https://github.com/casuarioq/Metrology-GUM-Tool):** Advanced uncertainty calculator using GUM frameworks for high-precision analytical method validation (ISO 17025).
+* 📊 **[Analytical-Chemometrics-Stats](https://github.com/casuarioq/Analytical-Chemometrics-Stats):** Implementation of statistical models (Dixon, Grubbs) and Chemometrics to ensure Data Integrity and optimize chemical formulations.
+---
+
+### 📈 Featured Visualizations
+| EDTA Speciation | Redox DZP (Non-Aqueous) |
+| :---: | :---: |
+| ![EDTA](https://raw.githubusercontent.com/casuarioq/Competitive-Equilibrium-Master/main/edta_speciation.png) | ![Redox](https://raw.githubusercontent.com/casuarioq/Competitive-Equilibrium-Master/main/dzp_redox_etanol.png) |
 
 ---
 
