@@ -19,9 +19,9 @@ I am a **Master of Chemical Sciences** specialized in the intersection of **Adva
 
 ---
 ### 📂 Industrial & Analytical Projects
-* 🛡️ **[Competitive-Equilibrium-Master](https://github.com/casuarioq/Advanced-Equilibrium-Master):** Simulación de sistemas químicos complejos.
-* 🔢 **[Metrology-GUM-Tool](https://github.com/casuarioq/Metrology-GUM-Tool):** Calculadora de incertidumbre ISO 17025.
-* 📊 **[Analytical-Chemometrics-Stats](https://github.com/casuarioq/Analytical-Chemometrics-Stats):** Automatización estadística y ALCOA+.
+* 🛡️ **[Competitive-Equilibrium-Master](https://github.com/casuarioq/Competitive-Equilibrium-Master)**
+* 🔢 **[Metrology-GUM-Tool](https://github.com/casuarioq/Metrology-GUM-Tool)**
+* 📊 **[Analytical-Chemometrics-Stats](https://github.com/casuarioq/Analytical-Chemometrics-Stats)**
 
 ---
 
